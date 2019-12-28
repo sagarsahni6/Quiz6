@@ -168,11 +168,11 @@
 
 .quiz .quizControls button.disabled {
   cursor: not-allowed;
-  background: #E2E2E2;
+  background: #ff0022;
 }
 
 .quiz .quizControls button.disabled:hover {
-  background: #E2E2E2;
+  background: #e8001f;
 }
 
 .quiz .quizResults ul {
